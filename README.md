@@ -24,7 +24,8 @@ I'm passionate about turning raw data into real-world insights using **Python**,
 ## 📁 My Projects
 
 ### 🎯 Virat Kohli Power BI Dashboard  
-[![Virat Kohli Dashboard](https://user-images.githubusercontent.com/111123456/virat-dashboard-sample.jpg)](https://github.com/KrAtulHub/Virat-Kohli-PowerBI-Dashboard)
+[![Virat Kohli Dashboard](![Screenshot 2025-06-26 080041](https://github.com/user-attachments/assets/116e47b8-481e-4c3b-b724-cab6efb31180))
+
 > An interactive Power BI dashboard analyzing ODI performances of Virat Kohli including runs, 100s, 50s, matches by team, and more.
 
 ---
