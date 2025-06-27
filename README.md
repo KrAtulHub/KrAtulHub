@@ -43,12 +43,6 @@ I'm passionate about turning raw data into real-world insights using **Python**,
 
 ---
 
-## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=KrAtulHub&theme=dark&hide_border=false&include_all_commits=true&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=KrAtulHub&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KrAtulHub&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
 ## 📁 My Projects
 
 ### 🎯 Virat Kohli Power BI Dashboard  
@@ -58,6 +52,12 @@ I'm passionate about turning raw data into real-world insights using **Python**,
 
 
 > An interactive Power BI dashboard analyzing ODI performances of Virat Kohli including runs, 100s, 50s, matches by team, and more.
+
+---
+## 📊 GitHub Stats  
+![](https://github-readme-stats.vercel.app/api?username=KrAtulHub&theme=dark&hide_border=false&include_all_commits=true&count_private=false)  
+![](https://nirzak-streak-stats.vercel.app/?user=KrAtulHub&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KrAtulHub&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
