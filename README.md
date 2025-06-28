@@ -40,7 +40,7 @@ I'm passionate about turning raw data into real-world insights
 
 ---
 
-## 📁 My Projects
+## 📁 Highlighted Projects
 
 ### 🎯 Virat Kohli Power BI Dashboard  
  View - (https://github.com/user-attachments/assets/116e47b8-481e-4c3b-b724-cab6efb31180))
