@@ -1,7 +1,7 @@
 👋 Hi there!
 I'm Atul Kr Prasad
 
-I'm passionate about turning raw data into real-world insights using **Python**, **Data Science**, and **AI tools**.
+I'm passionate about turning raw data into real-world insights 
 
 ---
 
