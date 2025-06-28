@@ -1,5 +1,5 @@
 👋 Hi there!
-I'm Atul Kr Prasad
+I'm Atul Prasad – Aspiring Data Scientist
 
 I'm passionate about turning raw data into real-world insights 
 
