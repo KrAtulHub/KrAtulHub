@@ -8,6 +8,10 @@
 ## 🌐 Connect with Me  
 <p align="left">
   <a href="https://www.linkedin.com/in/atul-kr-prasad-515835266/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/?size=512&id=1CnGoAOeFulJ&format=png" alt="Portfolio" width="40" height="40"/>
+</a>&nbsp;&nbsp;
+
+  <a href="https://www.linkedin.com/in/atul-kr-prasad-515835266/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="40" height="40"/>
 </a>&nbsp;&nbsp;
   <a href="mailto:atulkumarprasad62@gmail.com" target="_blank" rel="noreferrer" style="margin-right:10px;">
