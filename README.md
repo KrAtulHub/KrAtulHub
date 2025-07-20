@@ -3,8 +3,7 @@
 # 👋 Hi there, I'm Atul kr Prasad  
 
 A passionate Data Scientist from India  
-
-
+<br>
 
 ## 🌐 Connect with Me  
 <p align="left">
@@ -66,9 +65,10 @@ A passionate Data Scientist from India
 ---
 ## 📊 GitHub Stats  
 
-![](https://github-readme-stats.vercel.app/api?username=KrAtulHub&theme=dark&hide_border=false&include_all_commits=true&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=KrAtulHub&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KrAtulHub&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KrAtulHub&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) <br>
+![](https://nirzak-streak-stats.vercel.app/?user=KrAtulHub&theme=dark&hide_border=false) <br>
+![](https://github-readme-stats.vercel.app/api?username=KrAtulHub&theme=dark&hide_border=false&include_all_commits=true&count_private=false) 
+
 
 ---
 
