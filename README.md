@@ -1,9 +1,9 @@
+<img src="https://github.com/user-attachments/assets/9addb85a-5029-4555-9ad0-002d07e88a4f" width="400" align="right" alt="Coding GIF" />
 
-👋 Hi there Atul kr Prasad 
+# 👋 Hi there, I'm Atul kr Prasad  
 
 A passionate Data Scientist from India  
 
-<img src="https://github.com/user-attachments/assets/9addb85a-5029-4555-9ad0-002d07e88a4f" width="300" align="right" alt="Coding GIF" />
 
 
 ## 🌐 Connect with Me  
