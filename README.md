@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Atul kr Prasad  
 
-A passionate Data Scientist from India  
+<h2>A passionate Data Scientist from India</h2>
 <br>
 
 ## 🌐 Connect with Me  
