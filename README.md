@@ -33,6 +33,16 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"/>
   </a>&nbsp;&nbsp;
 
+  <a href="https://icons8.com/icon/xSkewUSqtErH/pandas" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/?size=512&id=xSkewUSqtErH&format=png" alt="Pandas" width="40" height="40"/>
+</a>&nbsp;&nbsp;
+
+
+  <a href="https://icons8.com/icon/aR9CXyMagKIS/numpy" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/?size=512&id=aR9CXyMagKIS&format=png" alt="NumPy" width="40" height="40"/>
+</a>&nbsp;&nbsp;
+
+
 
   <!-- Matplotlib -->
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
