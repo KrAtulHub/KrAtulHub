@@ -1,5 +1,4 @@
-👋 Hi there
-   Atul kr Prasad – Aspiring Data Scientist
+👋 Hi there Atul kr Prasad 
 
 A passionate Data Scientist from India
 
