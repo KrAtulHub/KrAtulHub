@@ -1,8 +1,10 @@
+
 👋 Hi there Atul kr Prasad 
 
-A passionate Data Scientist from India
+A passionate Data Scientist from India  
 
----
+<img src="https://github.com/user-attachments/assets/9addb85a-5029-4555-9ad0-002d07e88a4f" width="300" align="right" alt="Coding GIF" />
+
 
 ## 🌐 Connect with Me  
 <p align="left">
