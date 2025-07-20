@@ -41,6 +41,7 @@ A passionate Data Scientist from India
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
   </a>
 
+
   <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
