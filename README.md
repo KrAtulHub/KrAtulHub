@@ -1,7 +1,7 @@
 👋 Hi there
    Atul kr Prasad – Aspiring Data Scientist
 
-I'm passionate about turning raw data into real-world insights.
+A passionate Data Scientist from India
 
 ---
 
