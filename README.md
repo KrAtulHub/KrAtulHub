@@ -49,10 +49,20 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/>
   </a>&nbsp;&nbsp;
 
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+                    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="80" height="50" />
+                </a>&nbsp;&nbsp;
+
+  <a href="https://icons8.com/icon/n3QRpDA7KZ7P/tensorflow" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+    <img src="https://img.icons8.com/color/48/n3QRpDA7KZ7P/tensorflow.png" alt="TensorFlow" width="40" height="40" />
+</a>&nbsp;&nbsp;
+
   <!-- Power BI -->
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
   </a>&nbsp;&nbsp;
+
+  
 
 
   <!-- MySQL -->
@@ -62,6 +72,10 @@
 
   <a href="https://icons8.com/icon/J0SgMWzAxqFj/jupyter" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/?size=512&id=J0SgMWzAxqFj&format=png" alt="Jupyter" width="40" height="40"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://icons8.com/icon/F4uMFPZgS0gt/anaconda" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+    <img src="https://img.icons8.com/?size=48&id=F4uMFPZgS0gt&format=png" alt="Anaconda" width="40" height="40" />
 </a>&nbsp;&nbsp;
 
 
