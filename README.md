@@ -7,7 +7,7 @@
 
 ## 🌐 Connect with Me  
 <p align="left">
-  <a href="https://www.linkedin.com/in/atul-kr-prasad-515835266/" target="_blank" rel="noreferrer">
+  <a href="[https://www.linkedin.com/in/atul-kr-prasad-515835266/](https://atulkr-tech.netlify.app/)" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/?size=512&id=1CnGoAOeFulJ&format=png" alt="Portfolio" width="40" height="40"/>
 </a>&nbsp;&nbsp;
 
