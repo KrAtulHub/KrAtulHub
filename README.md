@@ -9,17 +9,19 @@
 <p align="left">
   <a href="https://atulkr-tech.netlify.app" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/?size=512&id=1CnGoAOeFulJ&format=png" alt="Portfolio" width="40" height="40"/>
-</a>&nbsp;&nbsp;
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.linkedin.com/in/atul-kr-prasad-515835266/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="40" height="40"/>
-</a>&nbsp;&nbsp;
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="mailto:atulkumarprasad62@gmail.com" target="_blank" rel="noreferrer" style="margin-right:10px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" width="40" height="40"/>
-</a>&nbsp;&nbsp;
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://www.instagram.com/kumar.kunal.12/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>
-</a>&nbsp;&nbsp;
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ---
@@ -31,36 +33,36 @@
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin-right: 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://icons8.com/icon/xSkewUSqtErH/pandas" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/?size=512&id=xSkewUSqtErH&format=png" alt="Pandas" width="40" height="40"/>
-</a>&nbsp;&nbsp;
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
   <a href="https://icons8.com/icon/aR9CXyMagKIS/numpy" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/?size=512&id=aR9CXyMagKIS&format=png" alt="NumPy" width="40" height="40"/>
-</a>&nbsp;&nbsp;
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
   <!-- Matplotlib -->
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
                     <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="80" height="50" />
-                </a>&nbsp;&nbsp;
+                </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://icons8.com/icon/n3QRpDA7KZ7P/tensorflow" target="_blank" rel="noreferrer" style="margin-right: 10px;">
     <img src="https://img.icons8.com/color/48/n3QRpDA7KZ7P/tensorflow.png" alt="TensorFlow" width="40" height="40" />
-</a>&nbsp;&nbsp;
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- Power BI -->
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   
 
@@ -68,30 +70,30 @@
   <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://icons8.com/icon/J0SgMWzAxqFj/jupyter" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/?size=512&id=J0SgMWzAxqFj&format=png" alt="Jupyter" width="40" height="40"/>
-</a>&nbsp;&nbsp;
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://icons8.com/icon/F4uMFPZgS0gt/anaconda" target="_blank" rel="noreferrer" style="margin-right: 10px;">
     <img src="https://img.icons8.com/?size=48&id=F4uMFPZgS0gt&format=png" alt="Anaconda" width="40" height="40" />
-</a>&nbsp;&nbsp;
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
   <!-- HTML -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer" style="margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- CSS -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer" style="margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://icons8.com/icon/PXTY4q2Sq2lG/javascript" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/?size=512&id=PXTY4q2Sq2lG&format=png" alt="JavaScript" width="40" height="40"/>
-</a>&nbsp;&nbsp;
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
 
