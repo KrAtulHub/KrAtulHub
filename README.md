@@ -94,13 +94,13 @@
 
 <a href="https://icons8.com/icon/MHcMYTljfKOr/flask" target="_blank" rel="noreferrer" style="background-color: #000; display: inline-block; border-radius: 8px;">
   <img src="https://img.icons8.com/ios-filled/50/ffffff/flask.png" alt="Flask" width="40" height="40"/>
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
   <a href="https://icons8.com/icon/PXTY4q2Sq2lG/javascript" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/?size=512&id=PXTY4q2Sq2lG&format=png" alt="JavaScript" width="40" height="40"/>
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
 
