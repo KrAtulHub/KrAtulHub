@@ -92,8 +92,8 @@
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-  <a href="https://icons8.com/icon/MHcMYTljfKOr/flask" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/?size=512&id=MHcMYTljfKOr&format=png" alt="Flask" width="40" height="40"/>
+ <a href="https://icons8.com/icon/MHcMYTljfKOr/flask" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/ios/512/flask.png" alt="Flask" width="40" height="40"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
