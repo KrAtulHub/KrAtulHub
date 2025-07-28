@@ -91,6 +91,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+
+  <a href="https://icons8.com/icon/MHcMYTljfKOr/flask" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/?size=512&id=MHcMYTljfKOr&format=png" alt="Flask" width="40" height="40"/>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
   <a href="https://icons8.com/icon/PXTY4q2Sq2lG/javascript" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/?size=512&id=PXTY4q2Sq2lG&format=png" alt="JavaScript" width="40" height="40"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
