@@ -19,9 +19,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" width="40" height="40"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.instagram.com/kumar.kunal.12/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
 </p>
 
 ---
