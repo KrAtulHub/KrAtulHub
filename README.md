@@ -25,10 +25,20 @@ I'm a passionate **Data Scientist** from India, driven by the desire to extract 
 </p>
 
 ---
+---
+---
+## 🌟 Featured Project
+
+
+<p align="center_left">
+  <a href="https://github.com/KrAtulHub/Royal-enfield-price-prediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KrAtulHub&repo=Royal-enfield-price-prediction&theme=dark" alt="Royal Enfield Price Prediction Pin" />
+  </a>
+</p>
+
 
 ## 💻 Tech Stack & Tools
 
-A glimpse of the technologies I use in the world of Data Science and development:
 
 ### **Languages & Databases**
 <p align="left">
@@ -119,9 +129,9 @@ A glimpse of the technologies I use in the world of Data Science and development
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KrAtulHub&theme=cobalt&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KrAtulHub&theme=flat&margin-w=4&no-bg=true&no-description=true" alt="GitHub Trophies - Flat" />
 </p>
 
 <p align="center">
-  [![](https://visitcount.itsvg.in/api?id=KrAtulHub&icon=0&color=0)](https://visitcount.itsvg.in)
+ 
 </p>
