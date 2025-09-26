@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Atul Kr Prasad
 
-## 🚀 Data Scientist | Innovator | Problem Solver
+## 🚀 Data Scientist 
 
 I'm a passionate **Data Scientist** from India, driven by the desire to extract insights from complex data and build impactful solutions. Let's connect and build something great!
 
@@ -12,8 +12,8 @@ I'm a passionate **Data Scientist** from India, driven by the desire to extract 
 
 <p align="left">
   <a href="https://atulkr-tech.netlify.app" target="_blank" rel="noreferrer" title="Portfolio">
-    <img src="https://skillicons.dev/icons?i=website" alt="Portfolio" width="40" height="40"/>
-  </a>
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/internet.png" alt="Portfolio" width="40" height="40"/>
+</a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/atul-kr-prasad-515835266/" target="_blank" rel="noreferrer" title="LinkedIn">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
@@ -27,7 +27,7 @@ I'm a passionate **Data Scientist** from India, driven by the desire to extract 
 ---
 ---
 ---
-## 🌟 Featured Project
+## 🌟 Featured Projects
 
 
 <p align="center_left">
