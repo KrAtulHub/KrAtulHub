@@ -25,8 +25,7 @@ I'm a passionate **Data Scientist** from India, driven by the desire to extract 
 </p>
 
 ---
----
----
+
 ## 🌟 Featured Projects
 
 
