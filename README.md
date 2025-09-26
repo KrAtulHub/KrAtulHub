@@ -2,9 +2,8 @@
 
 # 👋 Hi there, I'm Atul Kr Prasad
 
-## 🚀 Data Scientist 
 
-I'm a passionate **Data Scientist** from India, driven by the desire to extract insights from complex data and build impactful solutions. Let's connect and build something great!
+I'm a passionate $\Large\color{DeepSkyBlue}{\text{Data Scientist}}$ from India, driven by the desire to extract insights from complex data and build impactful solutions. Let's connect and build something great!
 
 ---
 
