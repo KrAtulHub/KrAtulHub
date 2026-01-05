@@ -79,9 +79,6 @@ I'm a passionate <img src="https://img.shields.io/badge/Data%20Scientist-DeepSky
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
   </a>
   &nbsp;
-  <a href="https://keras.io/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="40" height="40"/>
-  </a>
 </p>
 
 ### **Tools & Environment**
