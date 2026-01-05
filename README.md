@@ -63,6 +63,13 @@ I'm a passionate <img src="https://img.shields.io/badge/Data%20Scientist-DeepSky
   <a href="https://plotly.com/" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/12025005?s=200&v=4" alt="Plotly" width="40" height="40"/>
   </a>
+  &nbsp;
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg"
+       alt="Microsoft Excel" width="40" height="40"/>
+</a>
+&nbsp;
+
 </p>
 
 ### **Machine Learning & Deep Learning**
@@ -98,6 +105,15 @@ I'm a passionate <img src="https://img.shields.io/badge/Data%20Scientist-DeepSky
   <a href="https://flask.palletsprojects.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="40" height="40"/>
   </a>
+  <a href="https://aws.amazon.com/" target="_blank">
+ <a href="https://aws.amazon.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=aws"
+       alt="AWS" width="40" height="40"/>
+</a>
+&nbsp;
+
+&nbsp;
+
 </p>
 
 ---
