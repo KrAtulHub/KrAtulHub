@@ -110,11 +110,3 @@ I'm a passionate <img src="https://img.shields.io/badge/Data%20Scientist-DeepSky
 ---
 
 <br>
-
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=KrAtulHub&theme=dark" alt="Streak Stats" />
-</p>
