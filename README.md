@@ -3,22 +3,22 @@
 # 👋 Hi there, I'm Atul Kr Prasad
 
 I'm a passionate <img src="https://img.shields.io/badge/Data%20Scientist-DeepSkyBlue" height="20"/> from India, driven by the desire to extract insights from complex data and build impactful solutions. Let's connect and build something great!
+
 <br clear="all" />
+
 ---
 
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://atulkr-tech.netlify.app" target="_blank" title="Portfolio">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/internet.png" alt="Portfolio" width="40" height="40"/>
+  <a href="https://atulkr-tech.netlify.app" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/internet.png" width="40"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/atul-kr-prasad-515835266/" target="_blank" title="LinkedIn">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/atul-kr-prasad-515835266/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:atulkumarprasad62@gmail.com" target="_blank" title="Email">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" width="40" height="40"/>
+  <a href="mailto:atulkumarprasad62@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/>
   </a>
 </p>
 
@@ -26,96 +26,35 @@ I'm a passionate <img src="https://img.shields.io/badge/Data%20Scientist-DeepSky
 
 ## 💻 Tech Stack & Tools
 
-### **Languages & Databases**
+### 🧠 Languages & Databases
 <p align="left">
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  </a>
-  &nbsp;
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
 </p>
 
-### **Data Analysis & Visualization**
+### 📊 Data Analysis & Visualization
 <p align="left">
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://numpy.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://matplotlib.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://seaborn.pydata.org/" target="_blank">
-    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://powerbi.microsoft.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://plotly.com/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/12025005?s=200&v=4" alt="Plotly" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg"
-       alt="Microsoft Excel" width="40" height="40"/>
-</a>
-&nbsp;
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45"/>
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="45"/>
+  <img src="https://avatars.githubusercontent.com/u/12025005?s=200&v=4" width="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="45"/>
 </p>
 
-### **Machine Learning & Deep Learning**
+### 🤖 Machine Learning
 <p align="left">
-  <a href="https://www.tensorflow.org" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" />
-  </a>
-  &nbsp;
-   <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
-  </a>
-  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45"/>
 </p>
 
-### **Tools & Environment**
+### 🛠 Tools & Environment
 <p align="left">
-  <a href="https://jupyter.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://www.anaconda.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank">
- <a href="https://aws.amazon.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=aws"
-       alt="AWS" width="40" height="40"/>
-</a>
-&nbsp;
-
-&nbsp;
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
+  <img src="https://skillicons.dev/icons?i=flask" width="45"/>
+  <img src="https://skillicons.dev/icons?i=aws" width="45"/>
 </p>
-
----
-
-<br>
