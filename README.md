@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Atul Kr Prasad
 
-I'm a passionate <img src="https://img.shields.io/badge/Data%20Scientist-DeepSkyBlue" height="20"/> from India, driven by the desire to extract insights from complex data and build impactful solutions. Let's connect and build something great!
+I'm Pursuing my MSc in Data Science and AI in India, driven by the desire to extract insights from complex data and build impactful solutions. Let's connect and build something great!
 
 <br clear="all" />
 
