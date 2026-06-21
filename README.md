@@ -21,7 +21,6 @@ I'm Pursuing my MSc in Data Science and AI in India, driven by the desire to ext
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
----
 
 ## 💻 Tech Stack & Tools
 
