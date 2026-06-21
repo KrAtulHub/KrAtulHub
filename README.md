@@ -12,16 +12,15 @@ I'm Pursuing my MSc in Data Science and AI in India, driven by the desire to ext
 
 <p align="left">
   <a href="https://atulkr-tech.netlify.app" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/internet.png" width="40"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/atul-kr-prasad-515835266/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:atulkumarprasad62@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
 ---
 
 ## 💻 Tech Stack & Tools
